@@ -1,0 +1,8 @@
+{
+    "name": "oxid-demo-theme",
+    "description": "Demo Theme for Oxid Commons 2014",
+    "type": "oxid-theme",
+    "require": {
+        "php": ">=5.4"
+    }
+}
