@@ -1,5 +1,5 @@
 {
-    "name": "oxid-demo-theme",
+    "name": "demo-theme",
     "description": "Demo Theme for Oxid Commons 2014",
     "type": "oxid-theme",
     "require": {
