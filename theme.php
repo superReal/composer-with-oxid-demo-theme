@@ -13,10 +13,10 @@
  * Theme Information
  */
 $aTheme = array(
-    'id'             => 'oxid-demo-theme',
+    'id'             => 'demo-theme',
     'title'          => 'sR Demo Theme',
     'description'    => 'OXID theme by superReal',
-    'thumbnail'      => 'src/superreal.png',
+    'thumbnail'      => 'src/img/superreal.png',
     'version'        => '0.1',
     'author'         => 'Philip Schneider',
     'parentTheme'    => 'azure',
