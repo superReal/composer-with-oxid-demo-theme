@@ -12,7 +12,7 @@ Installation
 ```
     "scripts": {
         "post-autoload-dump": [
-            "ln -sf ../application/views/composer-with-oxid-demo-theme/skin/demo-theme out/demo-theme"
+            "ln -sf ../application/views/composer-with-oxid-demo-theme/skin/composer-with-oxid-demo-theme out/composer-with-oxid-demo-theme"
         ]
     }
 ```

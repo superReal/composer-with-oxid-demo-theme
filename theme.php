@@ -3,7 +3,7 @@
  * Theme Information
  */
 $aTheme = array(
-    'id'             => 'demo-theme',
+    'id'             => 'composer-with-oxid-demo-theme',
     'title'          => 'Composer with OXID demo theme',
     'description'    => 'Demo theme for showing how to handle OXID themes with composer',
     'thumbnail'      => '',
