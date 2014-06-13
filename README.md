@@ -1,7 +1,7 @@
 composer-with-oxid-demo-theme
 ===============
 
-Demo theme for showing how to handle OXID themes with OXID
+Demo theme for showing how to handle OXID themes with composer
 
 Installation
 ======
