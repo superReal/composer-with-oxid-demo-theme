@@ -1,5 +1,5 @@
 {
-    "name": "composer-with-oxid-demo-theme",
+    "name": "superreal/composer-with-oxid-demo-theme",
     "description": "Demo theme for showing how to handle OXID themes with OXID",
     "type": "oxid-theme",
     "license": "GPL-3.0",
