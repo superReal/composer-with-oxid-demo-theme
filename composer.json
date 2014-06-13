@@ -1,7 +1,8 @@
 {
-    "name": "demo-theme",
-    "description": "Demo Theme for Oxid Commons 2014",
+    "name": "composer-with-oxid-demo-theme",
+    "description": "Demo theme for showing how to handle OXID themes with OXID",
     "type": "oxid-theme",
+    "license": "GPL-3.0",
     "require": {
         "php": ">=5.4"
     }

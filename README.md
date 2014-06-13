@@ -1,4 +1,18 @@
-oxid-demo-theme
+composer-with-oxid-demo-theme
 ===============
 
-Demo Theme for Oxid Commons 2014
+Demo theme for showing how to handle OXID themes with OXID
+
+Installation
+======
+
+1. Define this repository as requirement in your projects root composer.json
+2. Put all your assets to the skin directory, this will be symlinked to the out folder
+3. Put the following scripts to your projects root composer.json, to symlink the assets to the out folder
+```
+    "scripts": {
+        "post-install-cmd": [
+            "ln -sf ../application/views/composer-with-oxid-demo-theme/skin/demo-theme out/demo-theme"
+        ]
+    }
+```
