@@ -11,7 +11,7 @@ Installation
 3. Put the following scripts to your projects root composer.json, to symlink the assets to the out folder
 ```
     "scripts": {
-        "post-install-cmd": [
+        "post-autoload-dump": [
             "ln -sf ../application/views/composer-with-oxid-demo-theme/skin/demo-theme out/demo-theme"
         ]
     }

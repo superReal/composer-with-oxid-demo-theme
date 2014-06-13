@@ -4,6 +4,7 @@
     "type": "oxid-theme",
     "license": "GPL-3.0",
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.3.3",
+        "composer/installers": "~1.0"
     }
 }
